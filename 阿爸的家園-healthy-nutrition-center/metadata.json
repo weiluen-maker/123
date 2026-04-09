@@ -1,0 +1,7 @@
+{
+  "name": "阿爸的家園 Healthy Nutrition Center",
+  "description": "營養導向健康餐與體態管理飲食中心，提供客製化營養方案與 AI 營養顧問服務。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
